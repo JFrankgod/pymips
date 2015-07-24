@@ -1,0 +1,34 @@
+#comment
+
+.data
+toso: .word 12 23 45
+str1: "manaboleh macam ni\"
+#comment
+add $1,$2,$3
+
+# comment
+		sub      $2,             $3, $4
+
+
+add $1, $1, $3 #comment
+add $1, $2, $3
+sub $2, $3, $4
+add $1, $1, $3
+add $1, $2, $3
+sub $2, $3, $4
+add $1, $1, $3
+add $1, $2, $3
+sub $2, $3, $4
+add $1, $1, $3
+add $1, $2, $3
+sub $2, $3, $4
+add $1, $1, $3
+add $1, $2, $3
+sub $2, $3, $4
+add $1, $1, $3
+add $1, $2, $3
+sub $2, $3, $4
+add $1, $1, $3
+add $1, $2, $3
+sub $2, $3, $4
+add $1, $1, $3
